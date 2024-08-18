@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
 	int n;int A[100];int c=0;
+cout << "Insert the Number\n";
 	cin >> n;
 	int s=n;
 	for (int i=2;i<=n;i++)
